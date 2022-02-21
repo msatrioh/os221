@@ -5,7 +5,7 @@ By: Muhammad Satrio Haryo Kusumo
   <body>
         
 <br /><br />
-<a href="/">HOME</a> —
+<a href="https://msatrioh.github.io/os221/">HOME</a> —
 <a href="TXT/mylog.txt">LOG</a> —
 <a href="https://github.com/msatrioh/os221/">GITHUB</a>
 <br />
